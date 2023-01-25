@@ -1,0 +1,5 @@
+baseURL = "https://bobomunteanu.github.io"
+title   = "Hello Friend NG"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+
