@@ -1,6 +1,6 @@
 +++
 title = "Disaster Response Scenario"
-date = "2023-8-1"
+date = "2024-7-1"
 author = "Bogdan Munteanu"
 description = "Multi-Agent Disaster Response Scenario Outlining the Benefits of Inter-Agent Model Exchanges"
 +++
