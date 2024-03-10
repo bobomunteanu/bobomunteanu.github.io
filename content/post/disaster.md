@@ -7,4 +7,4 @@ description = "Multi-Agent Disaster Response Scenario Outlining the Benefits of 
 
 ## [Scenario PDF](https://bobomunteanu.github.io/img/Disaster_Response.pdf)
 
-Pursuing my interest for Artificial Intelligence, I collaborated with a professor from the Politehnica University of Bucharest to create scenarios that illustrate the usefulness of multi-agent systems and artificial intelligence for search and rescue missions after natural disasters.
+Pursuing my interest for Artificial Intelligence, I collaborated with professor Andrei Olaru from the Politehnica University of Bucharest to create a scenario that illustrates the usefulness of multi-agent systems and artificial intelligence for search and rescue missions after natural disasters.
